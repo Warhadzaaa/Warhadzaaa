@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [L'intermittent](http://www.lintermittent.fr/)
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **React** and **Solidity**
 
 - 💬 Ask me about **Rails**
 
